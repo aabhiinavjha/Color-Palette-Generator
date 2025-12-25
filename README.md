@@ -35,5 +35,5 @@ Built using **HTML, JavaScript, and Tailwind CSS CDN**, with perceptually unifor
 
 ---
 
-## Project Structure
+
 
